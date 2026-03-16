@@ -33,7 +33,10 @@ This project analyzes profit efficiency and technology gaps among 870 camel milk
 ## How to Use
 1. Open `meta_frontier_analysis.do` in Stata.  
 2. Ensure the dataset is loaded and all variable names match.  
-3. Run the script to reproduce county-specific frontiers, meta frontier, efficiency scores, and gap ratios.  
+3. Run the script to reproduce county-specific frontiers, meta frontier, efficiency scores, and gap ratios.
 
 ## License
 This project is open for academic and research purposes. Please cite appropriately if used.
+
+## Contributors
+Project developed in collaboration with Patrick Irungu, Senior Lecturer, Department of Agricultural Economics, University of Nairobi.
