@@ -39,4 +39,4 @@ This project analyzes profit efficiency and technology gaps among 870 camel milk
 This project is open for academic and research purposes. Please cite appropriately if used.
 
 ## Contributors
-Project developed in collaboration with Patrick Irungu, Senior Lecturer, Department of Agricultural Economics, University of Nairobi.
+Project developed in collaboration with Dr. Patrick Irungu, Senior Lecturer, Department of Agricultural Economics, University of Nairobi.
